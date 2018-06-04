@@ -1,0 +1,13 @@
+USE `fcamara` ;
+
+INSERT INTO publicacao (nm_autor, nm_titulo, ds_publicacao, dt_publicacao)
+VALUES ('Daniel','Nam sed.','Suspendisse congue ultrices sagittis. Morbi arcu ante, consectetur vel odio eget, laoreet maximus orci. Vestibulum maximus enim porta lacus venenatis sodales. Cras in sapien ac felis efficitur hendrerit. Nullam non metus lacus. Nunc eros sem, iaculis eget scelerisque vel, elementum at urna. Nullam eu tincidunt velit. Proin pharetra fermentum diam ac cursus. Maecenas dapibus eu nibh maximus fringilla. Vestibulum pretium viverra magna, sit amet rhoncus mauris eleifend in. Donec in est sagittis, ultricies metus quis, molestie sem.','2018-03-17 09:33:5');
+
+INSERT INTO publicacao (nm_autor, nm_titulo, ds_publicacao, dt_publicacao)
+VALUES ('Josef','Proin mollis.','Suspendisse congue ultrices sagittis. Morbi arcu ante, consectetur vel odio eget, laoreet maximus orci. Vestibulum maximus enim porta lacus venenatis sodales. Cras in sapien ac felis efficitur hendrerit. Nullam non metus lacus. Nunc eros sem, iaculis eget scelerisque vel, elementum at urna. Nullam eu tincidunt velit. Proin pharetra fermentum diam ac cursus. Maecenas dapibus eu nibh maximus fringilla. Vestibulum pretium viverra magna, sit amet rhoncus mauris eleifend in. Donec in est sagittis, ultricies metus quis, molestie sem.','2018-03-17 09:33:5');
+
+INSERT INTO publicacao (nm_autor, nm_titulo, ds_publicacao, dt_publicacao)
+VALUES ('Jooj','Sed non.','Vestibulum turpis odio, cursus condimentum turpis ac, posuere viverra dolor. Phasellus eget nulla eu metus viverra accumsan. Duis ut nisi ut metus fringilla dictum. Duis imperdiet eros sit amet tempor venenatis. Ut rutrum tellus eget orci fermentum auctor. Fusce eget ante nec diam euismod malesuada vitae vel mi. Sed accumsan maximus dui ut tempus. Curabitur aliquet non mauris maximus convallis. Vestibulum pharetra lorem ut vehicula hendrerit. Suspendisse eu erat ac elit malesuada bibendum. Praesent tempor nunc non massa elementum convallis. Sed et gravida nisl. Morbi venenatis sit amet est vitae eleifend. Vivamus in lacus eu odio finibus hendrerit. Integer sagittis dui a tellus eleifend, at feugiat nisl vulputate. Donec imperdiet mauris commodo, porttitor lectus sit amet, fringilla massa.','2018-04-25 16:44:22');
+
+INSERT INTO publicacao (nm_autor, nm_titulo, ds_publicacao, dt_publicacao)
+VALUES ('Ciro Becomes Human',' Nam iaculis.','Cras consequat lacus bibendum finibus lacinia. Proin congue condimentum ligula sit amet convallis. Ut id laoreet elit. Suspendisse eget tortor at felis fringilla consectetur in a nisi. Pellentesque accumsan justo ac lectus commodo, sit amet laoreet nulla gravida. Integer metus est, vulputate in varius a, imperdiet lacinia felis. Nulla facilisi.','2017-08-12 18:14:23');
